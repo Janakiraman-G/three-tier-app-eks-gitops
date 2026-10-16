@@ -4,7 +4,7 @@ Every change is made on a branch off main and merged back through a pull request
 
 feat/ a new capability
 fix/ a correction to something broken
-chore/ structure, configuration, tooling
+chore/ structure, configuration, tooling 
 docs/ documentation and README work
 ci/ workflow and pipeline changes
 refactor/ changing shape without changing behaviour
